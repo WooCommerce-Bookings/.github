@@ -1,6 +1,6 @@
 # WooCommerce Bookings – Free Download
 
-![WooCommerce Bookings](https://woocommerce.com/wp-content/uploads/2013/09/bookings.jpg)
+![WooCommerce Bookings](https://github.com/WooCommerce-Bookings/.github/blob/main/woocommerce-bookings.jpg?raw=true)
 
 ## 📅 Accept Bookings on Your WooCommerce Store
 
